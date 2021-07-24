@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnlitimitedZY&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnlitimitedZY)](https://github.com/UnlitimitedZY/UnlitimitedZY/edit/main/README.md)
 
 
 
